@@ -38,7 +38,7 @@ To build the Search engine web GUI:-
 4. The http link will open our Search engine webpage where you can enter the query and see its search result and the time it took to generate the result.
 
 
-Extra credits:-
+Additionals :-
 1. Implemented a Web GUI for the Search Engine.
 2. Detected and eliminated duplicate pages.
 3. Implemented the summarization of the resulting pages using the OpenAI API and show the short summaries in the web GUI. (Takes 5-6 secs to generate the summary after you click the summary button.)
