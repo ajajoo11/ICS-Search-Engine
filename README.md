@@ -17,7 +17,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/ICS_SearchEngine_UCI.git
+   git clone https://github.com/ajajoo11/ICS_SearchEngine_UCI.git
    cd ICS_SearchEngine_UCI
 
 Modules you will need to execute this search engine:-
