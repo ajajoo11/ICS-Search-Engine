@@ -1,5 +1,16 @@
 # ICS Search Engine
 
+Welcome to the ICS Search Engine, a web-based search engine created from the ground up to handle up to two thousand documents or web pages from the School of Information and Computer Science (ICS) at the University of California, Irvine (UCI). This project is powered by Python's Flask framework and incorporates various Information Retrieval techniques including text processing, indexing, and ranking algorithms.
+
+# Features
+
+Text Processing: Utilizes NLTK to perform tokenization and stemming on documents.
+Indexing: Implements an inverted indexer to store processed documents, mapping terms to the documents they appear in, alongside their TF-IDF scores and importance.
+Ranking: Ranks documents based on their TF-IDF scores to provide a list of top search results.
+Web Scraping: Uses the BeautifulSoup library to parse HTML and extract useful information.
+Summary Generation: Employs OpenAI's GPT-3 model to generate a summary of search results.
+Flask Web Application: Hosted on a Flask server, handling GET and POST requests and rendering a simple and intuitive user interface.
+
 Modules you will need to execute this search engine:-
 1. nltk
 2. bs4
