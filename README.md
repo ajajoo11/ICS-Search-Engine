@@ -1,6 +1,6 @@
 # ICS Search Engine
 
-Welcome to the ICS Search Engine, a web-based search engine created from the ground up to handle up to two thousand documents or web pages from the School of Information and Computer Science (ICS) at the University of California, Irvine (UCI). This project is powered by Python's Flask framework and incorporates various Information Retrieval techniques including text processing, indexing, and ranking algorithms.
+Welcome to the ICS Search Engine! This web-based search engine is built from scratch to efficiently handle up to two thousand documents or web pages from the School of Information and Computer Science (ICS) at the University of California, Irvine (UCI). Powered by Python's Flask framework, the project leverages advanced Information Retrieval techniques, including text processing, indexing, and ranking algorithms. Additionally, it integrates the OpenAI API for automatic summary generation, enhancing the relevance and user experience of search results.
 
 ## Features
 
